@@ -12,11 +12,11 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "PBN Starter Template",
-  domain: "example.com",
-  url: "https://example.com",
-  description: "Modèle universel Astro 5 + Keystatic + i18n pour réseau PBN Cloudflare.",
-  repo: "jc842/pbn-template",
+  name: "Le Guide Martinique — Communes, Anses, Patrimoine & Distilleries AOC",
+  domain: "leguidemartinique.com",
+  url: "https://leguidemartinique.com",
+  description: "Le guide indépendant de référence de la Martinique : 34 communes explorées, plages du Sud, randonnées de la Montagne Pelée, distilleries de rhum agricole et adresses créoles.",
+  repo: "jc842/leguidemartinique",
 
   i18n: {
     defaultLocale: "fr",
@@ -25,14 +25,14 @@ export const siteConfig: SiteConfig = {
   },
 
   theme: {
-    style: "editorial",
-    fontFamily: "sans",
-    colorScheme: "emerald",
+    style: "lexington-trendspotter",
+    fontFamily: "Plus Jakarta Sans, sans-serif",
+    colorScheme: "amber-terracotta",
   },
 
   matomo: {
     url: "https://analytics.les4h.fr/",
-    siteId: "1",
+    siteId: "108",
   },
 
   revive: {
@@ -47,9 +47,9 @@ export const siteConfig: SiteConfig = {
 
   legal: {
     editor: "Éditeur indépendant",
-    address: "Union Européenne",
-    contactEmail: "contact@example.com",
-    hostName: "Cloudflare Pages",
+    address: "Guadeloupe / France",
+    contactEmail: "contact@leguidemartinique.com",
+    hostName: "Cloudflare Pages & Hetzner",
     hostAddress: "Union Européenne",
   },
 };
