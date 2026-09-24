@@ -1,0 +1,38 @@
+# Le Guide Martinique — Communes, Anses, Patrimoine & Distilleries AOC
+
+> Le guide indépendant de référence de la Martinique : 34 communes explorées, plages du Sud, randonnées de la Montagne Pelée, distilleries de rhum agricole et adresses créoles.
+
+## Présentation générale
+Le Guide Martinique — Communes, Anses, Patrimoine & Distilleries AOC (https://leguidemartinique.com) est un média d'information et guide spécialisé indépendant dédié à sa thématique d'expertise. Notre mission est d'apporter une information fiable, vérifiée et actualisée aux passionnés, professionnels et résidents, en valorisant les meilleures pratiques, les acteurs locaux et l'art de vivre sous les alizés.
+
+## Structure du site & Thématiques phares
+Le contenu est structuré autour des axes éditoriaux majeurs suivants :
+
+- **News** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Guide de Voyage** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Lifestyle** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **People** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Video** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+- **Travel** : Analyses, guides détaillés, conseils pratiques et retours d'expérience sur le terrain.
+
+## Ressources & Publications
+- [Tous les articles du Magazine](https://leguidemartinique.com/blog/) : Plus de 210 publications thématiques, guides d'experts et fiches pratiques rédigées par notre rédaction.
+- [Accueil international (English)](https://leguidemartinique.com/en/) : Version anglophone des dossiers et guides de référence.
+- [Accueil international (Español)](https://leguidemartinique.com/es/) : Version hispanophone des dossiers et guides de référence.
+
+## Éthique éditoriale & Charte de qualité
+Le Guide Martinique — Communes, Anses, Patrimoine & Distilleries AOC s'engage au quotidien sur une charte stricte :
+- Production d'analyses indépendantes, objectives et fondées sur des données terrain.
+- Sensibilisation active au respect de l'environnement local et à la préservation des écosystèmes.
+- Valorisation des artisans, commerces, initiatives durables et talents régionaux.
+
+## Données techniques & Respect de la vie privée
+- Plateforme statique haute performance (Astro 5 SSG, hébergement Edge Cloudflare Pages).
+- Mesure d'audience 100% cookieless via Matomo auto-hébergé, strictement conforme au RGPD et exemptée de consentement préalable selon les recommandations de la CNIL.
+- Régie publicitaire Revive Adserver intégrée de façon asynchrone garantissant une vitesse d'affichage optimale sans traçage intrusif.
+
+## Informations légales & Contact
+- Éditeur : Éditeur indépendant
+- Contact rédaction : contact@leguidemartinique.com
+- Mentions Légales : https://leguidemartinique.com/mentions-legales/
+- Politique de Confidentialité : https://leguidemartinique.com/politique-confidentialite/
